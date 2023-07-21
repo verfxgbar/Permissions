@@ -1,0 +1,8 @@
+main: de.verfxgbar.utils.FIS
+author: verfxgbar
+version: ${version}
+name: ${name}
+api-version: 1.20
+commands:
+  fis:
+    description: permissions command
